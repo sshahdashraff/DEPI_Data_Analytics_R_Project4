@@ -31,4 +31,5 @@ This project allowed me to apply various data analytics techniques in a real-wor
 ### Contact
 For any questions or comments, please reach out to me at: 
 Email : shashraf214@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/shahd-ashraf-0953a728b/
