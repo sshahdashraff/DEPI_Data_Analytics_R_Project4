@@ -10,8 +10,7 @@ The dataset used in this project contained information on hotel bookings, includ
 The project followed these key steps:
 1. **Data Cleaning and Preprocessing**: Handled missing values, encoded categorical variables, and engineered new features.
 2. **Exploratory Data Analysis**: Conducted statistical analysis and visualizations to identify relationships between booking characteristics and cancellation rates.
-3. **Predictive Modeling**: Built and evaluated several machine learning models (e.g., logistic regression, decision trees, random forests) to predict booking cancellations.
-4. **Insights and Recommendations**: Synthesized findings to provide actionable recommendations for hotels to reduce cancellations and improve revenue management.
+3. **Insights and Recommendations**: Synthesized findings to provide actionable recommendations for hotels to reduce cancellations and improve revenue management.
 
 ### Key Findings
 - Lead time (the number of days between booking and arrival) was the most influential factor in predicting cancellations. Shorter lead times were associated with higher cancellation rates.
